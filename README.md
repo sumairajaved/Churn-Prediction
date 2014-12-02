@@ -3,4 +3,4 @@ Churn-Prediction
 
 Predicting customer churn with scikit-learn following YHAT tutorial
 
-https://github.com/tarikd/Churn-Prediction/blob/master/Churn.ipynb
+http://nbviewer.ipython.org/github/tarikd/Churn-Prediction/blob/master/Churn.ipynb
